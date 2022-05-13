@@ -3,7 +3,7 @@ My name is Katrin. I am a data scientist who approaches every project with passi
 <br> My M.S. in Applied Mathematics, combined with the skills learned at General Assembly’s Immersive Data Science program, gives me a strong ability to manipulate large data sets, identify patterns in raw data, and develop models to predict the likelihood of a future outcome and to optimize business solutions. I'm excited for the opportunity to turn data chaos into something meaningful and clear. 
 <br> I thrive at work when I have ample opportunities for learning new skills and for taking on new responsibilities. I find satisfaction in collaboration, building relationships, and bringing joy to the team with a positive attitude and humor.
       
-
+[**LinkedIn**](https://www.linkedin.com/in/katrinayrapetov/)
 
 <!--Hello
 **Kaayrapetov/Kaayrapetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
