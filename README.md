@@ -5,7 +5,7 @@
       
 [**LinkedIn**](https://www.linkedin.com/in/katrinayrapetov/)
 
-### Here is a short list of my skills: 
+### Here is a short list of my skills:
 * Web Scraping 
 * Data Cleaning 
 * Models and Metrics
